@@ -13,6 +13,10 @@
 ![image](https://github.com/sonyarochina/rs/assets/157011181/52020284-bdcc-440b-a7fa-c0d22ea565c4)
 # ЗАДАЧА 586 - Easy
 ![image](https://github.com/sonyarochina/rs/assets/157011181/aeb77a56-8cb4-493e-a762-284147ee3017)
+# ЗАДАЧА 196 - Easy
+![image](https://github.com/sonyarochina/rs/assets/157011181/c0c37c4f-3b84-4e9d-8429-7712eafa292d)
+# ЗАДАЧА 197 - Easy
+![image](https://github.com/sonyarochina/rs/assets/157011181/5bf726ca-5c7e-4637-99bc-7ed1c2d27e65)
 
 
 # ЗАДАЧА 176 - Medium
@@ -21,5 +25,5 @@
 ![image](https://github.com/sonyarochina/rs/assets/157011181/357c7cbf-4e42-49a1-bcda-e3f3728d8ee9)
 # ЗАДАЧА 184 - Medium
 ![image](https://github.com/sonyarochina/rs/assets/157011181/c1feb1d1-e2d9-4599-a771-232b346700b5)
+# ЗАДАЧА 
 
-и мне начало выавать ConnectionTimeout caused by - ReadTimeoutError(HTTPSConnectionPool(host='prod.es.psc.us-west1.gcp.elastic-cloud.com', port=443): Read timed out. (read timeout=1.0)) 
