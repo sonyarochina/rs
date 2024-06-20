@@ -14,5 +14,8 @@
 
 # ЗАДАЧА 176 - Medium
 ![image](https://github.com/sonyarochina/rs/assets/157011181/161d554d-78ee-44ac-baf6-341adede8bb6)
+# ЗАДАЧА 178 - Medium
+![image](https://github.com/sonyarochina/rs/assets/157011181/357c7cbf-4e42-49a1-bcda-e3f3728d8ee9)
+
 # ЗАДАЧА 184 - Medium
 ![image](https://github.com/sonyarochina/rs/assets/157011181/c1feb1d1-e2d9-4599-a771-232b346700b5)
