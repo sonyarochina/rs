@@ -1,3 +1,6 @@
+Простите, что не все. Я больше половины делала с мобильного интернета и мне постоянно выдавало ConnectionTimeout caused by - ReadTimeoutError(HTTPSConnectionPool(host='prod.es.psc.us-west1.gcp.elastic-cloud.com', port=443): Read timed out. (read timeout=1.0)) 
+
+
 # ЗАДАЧА 175 - Easy
 ![image](https://github.com/sonyarochina/rs/assets/157011181/a20b4fed-cf7b-4096-9743-a0c73942f2fb)
 # ЗАДАЧА 183 - Easy
@@ -16,6 +19,7 @@
 ![image](https://github.com/sonyarochina/rs/assets/157011181/161d554d-78ee-44ac-baf6-341adede8bb6)
 # ЗАДАЧА 178 - Medium
 ![image](https://github.com/sonyarochina/rs/assets/157011181/357c7cbf-4e42-49a1-bcda-e3f3728d8ee9)
-
 # ЗАДАЧА 184 - Medium
 ![image](https://github.com/sonyarochina/rs/assets/157011181/c1feb1d1-e2d9-4599-a771-232b346700b5)
+
+и мне начало выавать ConnectionTimeout caused by - ReadTimeoutError(HTTPSConnectionPool(host='prod.es.psc.us-west1.gcp.elastic-cloud.com', port=443): Read timed out. (read timeout=1.0)) 
