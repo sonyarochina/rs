@@ -3,3 +3,16 @@
 # ЗАДАЧА 183 - Easy
 ![image](https://github.com/sonyarochina/rs/assets/157011181/ebea1b33-12a5-4660-8278-dd28a0e04bd8)
 # ЗАДАЧА 182 - Easy
+![image](https://github.com/sonyarochina/rs/assets/157011181/38edbf49-b790-45d2-81a6-02372df8ee60)
+# ЗАДАЧА 181 - Easy
+![image](https://github.com/sonyarochina/rs/assets/157011181/b32a5ecd-641b-428b-a99e-dd9b05aec575)
+# ЗАДАЧА 511 - Easy
+![image](https://github.com/sonyarochina/rs/assets/157011181/52020284-bdcc-440b-a7fa-c0d22ea565c4)
+# ЗАДАЧА 586 - Easy
+![image](https://github.com/sonyarochina/rs/assets/157011181/aeb77a56-8cb4-493e-a762-284147ee3017)
+
+
+# ЗАДАЧА 176 - Medium
+![image](https://github.com/sonyarochina/rs/assets/157011181/161d554d-78ee-44ac-baf6-341adede8bb6)
+# ЗАДАЧА 184 - Medium
+![image](https://github.com/sonyarochina/rs/assets/157011181/c1feb1d1-e2d9-4599-a771-232b346700b5)
