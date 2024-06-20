@@ -1,4 +1,4 @@
-Простите, что не все. Я больше половины делала с мобильного интернета и мне постоянно выдавало ConnectionTimeout caused by - ReadTimeoutError(HTTPSConnectionPool(host='prod.es.psc.us-west1.gcp.elastic-cloud.com', port=443): Read timed out. (read timeout=1.0)) 
+Простите, что не все. Мне постоянно выдавало ConnectionTimeout caused by - ReadTimeoutError(HTTPSConnectionPool(host='prod.es.psc.us-west1.gcp.elastic-cloud.com', port=443): Read timed out. (read timeout=1.0)) 
 
 
 # ЗАДАЧА 175 - Easy
